@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "d7VZXEgwbCkdyfwZBCyMHDpiZTYfye/zXFKBPpMA5syCJkoPA1qwf89xGTWs+gIEVBRHIYSKe/ptmZFAocU+4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\afront\\source\\repos\\PlatformaNETLAB4AFront\\LAB4AFront\\LAB4AFront\\LAB4AFront.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.ezuniverse.com/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

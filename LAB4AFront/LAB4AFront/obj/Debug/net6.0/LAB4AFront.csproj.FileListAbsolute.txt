@@ -1,0 +1,15 @@
+C:\Users\afront\source\repos\PlatformaNETLAB4AFront\LAB4AFront\LAB4AFront\bin\Debug\net6.0\LAB4AFront.exe
+C:\Users\afront\source\repos\PlatformaNETLAB4AFront\LAB4AFront\LAB4AFront\bin\Debug\net6.0\LAB4AFront.deps.json
+C:\Users\afront\source\repos\PlatformaNETLAB4AFront\LAB4AFront\LAB4AFront\bin\Debug\net6.0\LAB4AFront.runtimeconfig.json
+C:\Users\afront\source\repos\PlatformaNETLAB4AFront\LAB4AFront\LAB4AFront\bin\Debug\net6.0\LAB4AFront.dll
+C:\Users\afront\source\repos\PlatformaNETLAB4AFront\LAB4AFront\LAB4AFront\bin\Debug\net6.0\LAB4AFront.pdb
+C:\Users\afront\source\repos\PlatformaNETLAB4AFront\LAB4AFront\LAB4AFront\obj\Debug\net6.0\LAB4AFront.csproj.AssemblyReference.cache
+C:\Users\afront\source\repos\PlatformaNETLAB4AFront\LAB4AFront\LAB4AFront\obj\Debug\net6.0\LAB4AFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afront\source\repos\PlatformaNETLAB4AFront\LAB4AFront\LAB4AFront\obj\Debug\net6.0\LAB4AFront.AssemblyInfoInputs.cache
+C:\Users\afront\source\repos\PlatformaNETLAB4AFront\LAB4AFront\LAB4AFront\obj\Debug\net6.0\LAB4AFront.AssemblyInfo.cs
+C:\Users\afront\source\repos\PlatformaNETLAB4AFront\LAB4AFront\LAB4AFront\obj\Debug\net6.0\LAB4AFront.csproj.CoreCompileInputs.cache
+C:\Users\afront\source\repos\PlatformaNETLAB4AFront\LAB4AFront\LAB4AFront\obj\Debug\net6.0\LAB4AFront.dll
+C:\Users\afront\source\repos\PlatformaNETLAB4AFront\LAB4AFront\LAB4AFront\obj\Debug\net6.0\refint\LAB4AFront.dll
+C:\Users\afront\source\repos\PlatformaNETLAB4AFront\LAB4AFront\LAB4AFront\obj\Debug\net6.0\LAB4AFront.pdb
+C:\Users\afront\source\repos\PlatformaNETLAB4AFront\LAB4AFront\LAB4AFront\obj\Debug\net6.0\LAB4AFront.genruntimeconfig.cache
+C:\Users\afront\source\repos\PlatformaNETLAB4AFront\LAB4AFront\LAB4AFront\obj\Debug\net6.0\ref\LAB4AFront.dll
